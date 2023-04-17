@@ -1,8 +1,9 @@
 Name Age App
+
 This application was created through Udemy.com course "React-The Complete Guide(incl Hooks, React Router, Redux) by Maximilian Schwarzmuller.
 
 
-This application taught me how to add a USername and Age box to an application. This simple application allows the user to insert their username and age.
+This application taught me how to add a Username and Age box to an application. This simple application allows the user to insert their username and age.
 If the user does not enter a valid username, a modal will appear with an "Invalid input" message.
 The user can use the up or down arrow keys on the right hand side of the Age box if they wish.
 The bottom box will record each username entered as well as their age.
