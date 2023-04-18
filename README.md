@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/110921145/232877768-cfc978d4-dd16-42d3-b3e6-6a1bfd286d59.png)
+
+
+
 Name Age App
 
 This application was created through Udemy.com course "React-The Complete Guide(incl Hooks, React Router, Redux) by Maximilian Schwarzmuller.
